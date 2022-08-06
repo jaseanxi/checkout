@@ -1,0 +1,4 @@
+INSERT INTO `managepeople` (`id`, `date`, `name`, `number`, `address`, `createdAt`, `updatedAt`, `deleteTime`) VALUES (2, '2022-7-21 00:00:00', 'TOM', 'A01', '常熟', '2022-7-20 08:07:07', '2022-7-20 08:07:07', NULL);
+INSERT INTO `managepeople` (`id`, `date`, `name`, `number`, `address`, `createdAt`, `updatedAt`, `deleteTime`) VALUES (3, '2022-7-31 00:00:00', 'JACK', 'A02', '苏州', '2022-7-29 05:31:16', '2022-7-29 05:31:16', NULL);
+INSERT INTO `managepeople` (`id`, `date`, `name`, `number`, `address`, `createdAt`, `updatedAt`, `deleteTime`) VALUES (4, '2022-7-30 00:00:00', '11', '11', '11', '2022-7-29 05:31:52', '2022-7-29 05:31:52', NULL);
+INSERT INTO `managepeople` (`id`, `date`, `name`, `number`, `address`, `createdAt`, `updatedAt`, `deleteTime`) VALUES (5, '2022-7-30 00:00:00', '22', '22', '22', '2022-7-29 06:30:39', '2022-8-1 07:12:17', '2022-8-2 15:11:54');

@@ -1,0 +1,9 @@
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (100, '2022-7-31 09:13:09', '2022-7-31 09:13:09', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (101, '2022-7-31 09:14:54', '2022-7-31 09:14:54', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (102, '2022-7-31 09:15:01', '2022-7-31 09:15:01', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (103, '2022-8-4 06:33:39', '2022-8-4 06:33:39', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (104, '2022-8-4 06:40:16', '2022-8-4 06:40:16', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (105, '2022-8-4 06:42:18', '2022-8-4 06:42:18', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (106, '2022-8-4 06:45:24', '2022-8-4 06:45:24', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (107, '2022-8-4 09:04:58', '2022-8-4 09:04:58', 'A01', 1, NULL);
+INSERT INTO `weixincheckinfos` (`id`, `createdAt`, `updatedAt`, `EMPnumber`, `isCheck`, `CheckTime`) VALUES (108, '2022-8-5 08:17:21', '2022-8-5 08:17:21', 'A01', 1, NULL);
